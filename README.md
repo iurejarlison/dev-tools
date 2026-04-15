@@ -1,23 +1,13 @@
-# My First Project
+# Dev Tools
 
-This project is part of my journey into open source and software development.
+A simple command-line tool built with Node.js that provides useful utilities for everyday tasks.
 
-## What I am doing
-- Learning programming
-- Building small useful tools
-- Improving step by step
+## Features
 
-## Goal
-To become an active open-source contributor.
+- Greet users
+- Perform basic math operations
+- Check if a number is even or odd
 
-## Status
-Actively being developed.
+## Installation
 
-## Future Plans
-- Add more useful functions
-- Improve code structure
-- Expand project features
-
-## How to use
-
-Run the file using Node.js:
+Clone the repository:
