@@ -17,3 +17,7 @@ Actively being developed.
 - Add more useful functions
 - Improve code structure
 - Expand project features
+
+## How to use
+
+Run the file using Node.js:
