@@ -12,3 +12,8 @@ To become an active open-source contributor.
 
 ## Status
 Actively being developed.
+
+## Future Plans
+- Add more useful functions
+- Improve code structure
+- Expand project features
